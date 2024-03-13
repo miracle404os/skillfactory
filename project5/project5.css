@@ -1,0 +1,21 @@
+p {
+    box-sizing: border-box;
+    padding: 2em;
+    width: 400px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.first {
+    background-color: white;
+    color: black;
+    font-family: Georgia, Lora, serif;
+}
+font-family: Georgia, Lora, serif;
+font-family: Helvetica, Karla, sans-serif;
+.second {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+    font-family: Helvetica, Karla, sans-serif;
+}

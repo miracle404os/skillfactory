@@ -1,0 +1,13 @@
+.head {
+    font-family: Georgia, Lora, serif;
+}
+.body {
+    font-family: Helvetica, Karla, sans-serif;
+}
+header {
+    display: flex;
+    justify-content: center;
+}
+h1 {
+    order:2;
+}
